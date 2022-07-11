@@ -24,3 +24,5 @@ Note that the Lisa doesn't eject the floppy after reading the loader program fro
 
 # Modifications
 All of the code can be found in ExpansionROMProgrammer.x68 and was written for the EASy68K assembler, but it can probably be adapted to other assemblers pretty easily. Keep in mind that I'm still a novice when it comes to assembly language, so it's probably kind of sloppy in places, but it certainly gets the job done!
+
+To make the dc42 images, I used Tom Stepleton's awesome [floppy bootloader](https://github.com/stepleton/bootloader).
